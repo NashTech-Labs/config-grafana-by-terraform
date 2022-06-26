@@ -1,6 +1,5 @@
 provider "grafana" {
   url  = "localhost:3000"
-  
 }
 
 terraform {
